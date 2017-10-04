@@ -1,2 +1,2 @@
 # Kiyomi
-A Fun Lovable Discord Bot
+A Fun Lovable Discord Bot.
